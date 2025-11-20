@@ -95548,7 +95548,7 @@ A.nM.prototype={}
 A.wX.prototype={}
 A.QO.prototype={
 H(a){var s=null
-return new A.Dq(B.SZ,"Panchayat Mitra",A.y3(s,A.aN3(B.ao,s,s,B.Q0),!0),!1,s)}}
+return new A.Dq(B.SZ,"Praanpakur",A.y3(s,A.aN3(B.ao,s,s,B.Q0),!0),!1,s)}}
 A.Am.prototype={
 a0(){return new A.UQ()}}
 A.UQ.prototype={
