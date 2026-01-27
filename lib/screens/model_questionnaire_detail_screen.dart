@@ -18,8 +18,10 @@ class ModelQuestionnaireDetailScreen extends StatelessWidget {
       child: Scaffold(
         appBar: AppBar(
           title: const Text('Questionnaire Details'),
-          bottom: const TabBar(
-            tabs: [
+          bottom: TabBar(
+            labelColor: Colors.blue,
+            unselectedLabelColor: Colors.blue,
+            tabs: const [
               Tab(text: 'Part 1'),
               Tab(text: 'Part 2'),
               Tab(text: 'Part 3'),
