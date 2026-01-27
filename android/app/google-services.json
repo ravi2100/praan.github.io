@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083848913717",
+    "project_id": "panc-f58d6",
+    "storage_bucket": "panc-f58d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083848913717:android:52156eafe1b48cceef927c",
+        "android_client_info": {
+          "package_name": "com.pakur.praan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvwMSdp5h22voDwaTfo-AulfIiHLWjIOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
