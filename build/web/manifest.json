@@ -1,6 +1,6 @@
 {
-    "name": "web",
-    "short_name": "web",
+    "name": "panchayat_mitra",
+    "short_name": "panchayat_mitra",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
