@@ -3,17 +3,13 @@
 # Build the Flutter web app
 flutter build web
 
-# Navigate to the build output directory
-cd build/web
+# Remove the old docs directory
+rm -rf docs
 
-# Initialize a new Git repository
-git init
-git add .
+# Rename the build output directory to docs
+mv build/web docs
+
+# Add, commit, and push the changes
+git add docs
 git commit -m "Deploy to GitHub Pages"
-
-# Push to the gh-pages branch
-git push --force "https://github.com/ravi2100/praan.github.io.git" master:gh-pages
-
-# Clean up
-cd ../..
-rm -rf build/web
+git push origin main
